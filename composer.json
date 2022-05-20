@@ -1,0 +1,19 @@
+{
+    "name": "filway/component",
+    "description": "filway component",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Filway\\Component\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "filway",
+            "email": "filway@126.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0"
+    }
+}
